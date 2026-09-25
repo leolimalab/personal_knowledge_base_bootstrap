@@ -70,4 +70,3 @@ GPU:
 ## Fora do resumo
 - Colunas de familiaridade deixadas de fora (ver gap acima).
 - Emails/nomes anonimizados, não analisados.
-- Script usado: `Data/analyze_survey.py`.
