@@ -1,0 +1,42 @@
+{
+  "total": 25,
+  "os": {
+    "Windows": 16,
+    "Linux": 2,
+    "macOS": 7
+  },
+  "cpu": {
+    "64 GB ou mais": 4,
+    "32 GB": 6,
+    "16 GB": 10,
+    "8 GB ou menos": 4,
+    "N\u00e3o sei": 1
+  },
+  "gpu": {
+    "NVIDIA": 8,
+    "Apple Silicon (M1 a M4)": 7,
+    "Nenhuma ou n\u00e3o sei": 9,
+    "AMD": 1
+  },
+  "cor": {
+    "Azul": 10,
+    "Vermelho": 1,
+    "Preto": 5,
+    "Verde": 4,
+    "Rosa": 1,
+    "Laranja": 1,
+    "Roxo": 3
+  },
+  "genero": {
+    "Masculino": 21,
+    "N\u00e3o bin\u00e1rio": 1,
+    "Feminino": 3
+  },
+  "faixa": {
+    "26 a 30": 8,
+    "21 a 25": 8,
+    "31 a 40": 3,
+    "41 a 50": 5,
+    "51 ou mais": 1
+  }
+}
