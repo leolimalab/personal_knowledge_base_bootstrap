@@ -11,3 +11,4 @@ Uma linha por operação: `## [YYYY-MM-DD] tipo | descrição`. Tipos: `create`,
 ## [2026-10-01] ingest | AMIE feasibility study (arXiv 2603.08448v3): nota de leitura em 03 Resources + PDF movido do inbox
 ## [2026-10-01] create | Projeto Mestrado (nota-raiz + link AMIE); gap de projeto resolvido
 ## [2026-10-01] create | Mapa Mestrado.canvas: Mestrado → AMIE → 3 ideias (json-canvas)
+## [2026-10-01] ingest | Lote 8 papers: Wang QA, Med-PaLM, MEDI-Q, Med42, CBMS PT-BR, Med-PaLM 2, Schaekermann comment, Gu probs — notas + PDFs em 03 Resources, inbox zerado
