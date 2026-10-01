@@ -39,10 +39,8 @@ LLMs já funcionam bem em conversas diagnósticas simuladas; faltava testar em f
 - Minha leitura: a troca Pro → Flash no meio enfraquece a atribuição dos resultados a uma versão do modelo; amostra enviesada para alta literacia digital (45.9% score máximo).
 
 ## Relação com a minha base
-- Primeira nota de leitura da base; candidata a referência metodológica quando o projeto do Mestrado envolver avaliação de IA.
+- Primeira nota de leitura da base; referência metodológica do [[Mestrado]] para avaliação de IA.
 - Ingestão registrada em [[2026-10-01]].
-
-> [!gap] Projeto do Mestrado ainda não definido — sem destino para esta referência além de `03 Resources/`.
 
 ## Citações-chave
 > "AMIE's differential diagnosis (DDx) included the final diagnosis [...] in 90% of cases, with 75% top-3 accuracy." (p. 1)

@@ -9,3 +9,4 @@ Uma linha por operação: `## [YYYY-MM-DD] tipo | descrição`. Tipos: `create`,
 ## [2026-10-01] install | obsidian-skills (local) adicionado como submodule em kb_agent/vendor + 6 symlinks em kb_agent/skills; perfil atualizado
 ## [2026-10-01] skill | daily-log: aberto (primeiro diário 2026-10-01)
 ## [2026-10-01] ingest | AMIE feasibility study (arXiv 2603.08448v3): nota de leitura em 03 Resources + PDF movido do inbox
+## [2026-10-01] create | Projeto Mestrado (nota-raiz + link AMIE); gap de projeto resolvido

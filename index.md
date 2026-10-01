@@ -12,6 +12,7 @@ Catálogo da base, mantido pelo assistente. Uma linha por nota: link e uma frase
 
 ## 01 Projects
 - [[Logs diários]] — diários e resumos de período
+- [[Mestrado]] — projeto do mestrado; primeira referência: AMIE feasibility study
 - [[2026-10-01]] — primeiro diário: setup concluído, base pronta para uso
 
 ## 02 Areas
