@@ -18,6 +18,7 @@ Catálogo da base, mantido pelo assistente. Uma linha por nota: link e uma frase
 - 
 
 ## 03 Resources
+- [[2026-10-01 - AMIE prospective feasibility study]] — AMIE em urgent care real (n=100): seguro e viável, DDx ~ PCP, perde em praticidade/custo
 - [[2026-09-24 - Survey PKB com agentes]] — survey da turma (n=25), perfil OS/hardware
 - [[Algum dia]] — lista "algum dia / talvez" do GTD
 - [[GTD]] · [[PARA]] · [[Zettelkasten]] — metodologia desta base, em `Metodologia/`
