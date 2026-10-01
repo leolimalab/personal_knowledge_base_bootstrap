@@ -11,7 +11,7 @@
 - Ferramentas em uso: git, Obsidian, Zotero (usar com frequência)
 - Estilo de comunicação preferido: caveman
 - Fuso horário: America/Sao_Paulo
-- Instalação das skills: link
+- Instalação das skills: submodule kb_agent/vendor + symlinks em kb_agent/skills (repetir após git pull)
 - Skills do Obsidian: local
 
 ## Preferências do assistente

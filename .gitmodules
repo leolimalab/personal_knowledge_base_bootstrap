@@ -1,0 +1,3 @@
+[submodule "kb_agent/vendor/obsidian-skills"]
+	path = kb_agent/vendor/obsidian-skills
+	url = https://github.com/kepano/obsidian-skills
