@@ -6,7 +6,7 @@
 - Propósito principal da base: Mestrado / pesquisa acadêmica
 - Inferência: local
 - Dados: maquina
-- Provedor de modelo padrão: Ollama
+- Provedor de modelo padrão: LM Studio (lmstudio/ornith-1.5-9b via http://127.0.0.1:1234/v1)
 - Pastas excluídas da leitura do assistente: 
 - Ferramentas em uso: git, Obsidian, Zotero (usar com frequência)
 - Estilo de comunicação preferido: caveman
